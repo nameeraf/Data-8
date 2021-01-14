@@ -30,9 +30,9 @@ HW 9: Bootstrap, Resampling, CLT
 
 HW 10: Linear Regression
 
-HW11: Regression Inference
+HW 11: Regression Inference
 
-HW12: Classification
+HW 12: Classification
 
 
 # Labs
