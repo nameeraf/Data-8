@@ -2,33 +2,33 @@
 
 # Projects
 
-Project1: World Progress 
+Project 1: World Progress (Exploring data about population growth, life expectancy, fertility rate, mortality rate and poverty rate for different countries using a dataset from Gapminder.org to learn more about the world)
 
-Project2: Diet and Disease 
+Project 2: Cardiovascular Disease (Investigating the major causes of death in the world e.g. diabetes and cardiovascular disease, and the link of cardiovascular disease to factors such as diet using a dataset)
 
-Project3: Classification 
+Project 3: Classifying Movies (Classifying movies according to genre based on the number of times words occur using a k-nearest-neighbors classifier)
 
 # Homeworks 
 
-HW1: Causailty and Expressions
+HW 1: Causality and Expressions
 
-HW2: Arrays and Tables
+HW 2: Arrays and Tables
 
-HW3: Table Manipulation and Visualisation
+HW 3: Table Manipulation and Visualisation
 
-HW4: Functions, Histograms, and Groups
+HW 4: Functions, Histograms, and Groups
 
-HW5: Functions and Iteration
+HW 5: Applying Functions and Iteration
 
-HW6: Probability, Simulation, Estimation, and Assessing Models
+HW 6: Probability, Simulation, Estimation, and Assessing Models
 
-HW7: Testing Hypotheses
+HW 7: Testing Hypotheses
 
-HW8: Confidence Intervals
+HW 8: Confidence Intervals
 
-HW9: Central Limit Theorem
+HW 9: Bootstrap, Resampling, CLT
 
-HW10: Linear Regression
+HW 10: Linear Regression
 
 HW11: Regression Inference
 
